@@ -4,3 +4,13 @@ __pycache__/
 venv/
 runs/
 *.pth
+fpga/project_X/quartus/db/
+fpga/project_X/quartus/incremental_db/
+fpga/project_X/quartus/output_files/
+fpga/project_X/sim/work/
+*.rpt
+*.summary
+*.done
+*.jdi
+*.pin
+*.sof

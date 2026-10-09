@@ -161,7 +161,24 @@ That folder is ignored by Git because it contains generated artifacts.
 
 - `tiny_segmentation_demo.py`: main TinySegNet segmentation demo and benchmark script
 - `tiny_srcnn_demo.py`: earlier residual image-enhancement CNN experiment
+- `fpga/riscv_core/`: DE2-115 RISC-V CPU project with M9K memories, SRAM interface, CNN control map, and VGA framebuffer
 - `.gitignore`: excludes generated outputs and Python cache files
+
+## FPGA Status
+
+The FPGA project currently includes:
+
+```text
+RV32I-style 5-stage CPU
+M9K instruction/data memories
+memory-mapped CNN accelerator control registers
+16 KB M9K CNN weight RAM
+160x120 RGB565 M9K VGA framebuffer
+external 2 MB SRAM controller at 0x4000_0000
+VGA 160x120-to-640x480 scaler
+```
+
+The CPU self-test passes in ModelSim, and the top-level RTL compiles in ModelSim with no syntax errors.
 
 ## Next Steps
 

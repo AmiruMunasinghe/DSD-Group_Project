@@ -1,0 +1,386 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/RISC_V/project_X
+valu
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1791520758
+!i10b 1
+!s100 5874D52>>>2]jaLSI_]aD0
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMX4@K^7>nak=4HTRHN_HV3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1791395151
+8alu.sv
+Falu.sv
+!i122 3
+L0 2 35
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1791520758.000000
+!s107 de2_115_top.sv|hex7seg.sv|vga_160x120.sv|cpu.sv|control.sv|imm_gen.sv|regfile.sv|data_mem.sv|ext_sram_ctrl.sv|ins_mem.sv|branch_alu.sv|inc_alu.sv|pc.sv|alu.sv|
+Z7 !s90 -work|sim/work|-sv|alu.sv|pc.sv|inc_alu.sv|branch_alu.sv|ins_mem.sv|ext_sram_ctrl.sv|data_mem.sv|regfile.sv|imm_gen.sv|control.sv|cpu.sv|vga_160x120.sv|hex7seg.sv|de2_115_top.sv|
+!i113 1
+Z8 o-work sim/work -sv
+Z9 tCvgOpt 0
+vbranch_alu
+R1
+R2
+!i10b 1
+!s100 Z2eS5Hl3[9SO<8K7<NaDE2
+R3
+ILTcA9cOl?eoMl[9GQ@<SQ0
+R4
+S1
+R0
+w1791395157
+8branch_alu.sv
+Fbranch_alu.sv
+!i122 3
+L0 1 7
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 de2_115_top.sv|hex7seg.sv|vga_160x120.sv|cpu.sv|control.sv|imm_gen.sv|regfile.sv|data_mem.sv|ext_sram_ctrl.sv|ins_mem.sv|branch_alu.sv|inc_alu.sv|pc.sv|alu.sv|
+R7
+!i113 1
+R8
+R9
+vcontrol
+R1
+R2
+!i10b 1
+!s100 ]4>d3d632_fF2]l0bSjLB0
+R3
+IN3Q>NZ5EPgYnY;bgc_mLz2
+R4
+S1
+R0
+w1791395178
+8control.sv
+Fcontrol.sv
+!i122 3
+L0 2 48
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vcpu
+R1
+R2
+!i10b 1
+!s100 NcAh3QHF?oOBTb]z9^d4Y0
+R3
+I:?EDVYOkb=0_PPZjR^z`=1
+R4
+S1
+R0
+w1791520648
+8cpu.sv
+Fcpu.sv
+!i122 3
+L0 6 242
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vdata_mem
+R1
+R2
+!i10b 1
+!s100 c:Q4I2ESXm14UQ?fV?IRQ3
+R3
+Id7QB27=>OzJ>h_P2bnj823
+R4
+S1
+R0
+w1791520602
+8data_mem.sv
+Fdata_mem.sv
+!i122 3
+L0 10 218
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vde2_115_top
+R1
+R2
+!i10b 1
+!s100 6R:mg`TM?:A=6MnQQ^a^Y0
+R3
+I1nRJGgIZ]XV0BII;ndbNR0
+R4
+S1
+R0
+Z11 w1791520665
+8de2_115_top.sv
+Fde2_115_top.sv
+!i122 3
+L0 6 100
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vext_sram_ctrl
+R1
+R2
+!i10b 1
+!s100 ;G63J1P;4YFaG_GLdOSH;0
+R3
+I>VXN3CJgY>lV0f>:7Ng_U2
+R4
+S1
+R0
+w1791520631
+8ext_sram_ctrl.sv
+Fext_sram_ctrl.sv
+!i122 3
+L0 4 143
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vhex7seg
+R1
+R2
+!i10b 1
+!s100 V<4aQ=2HVQ_zVbQAaKGHM3
+R3
+I9Z8n485f<TRF[UK5z8Kfb0
+R4
+S1
+R0
+w1791395180
+8hex7seg.sv
+Fhex7seg.sv
+!i122 3
+L0 2 17
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vimm_gen
+R1
+R2
+!i10b 1
+!s100 E@dF5K53]S>7iXEP_`MTe0
+R3
+IjmEZn`1VGQEFnkgiE:Fmd2
+R4
+S1
+R0
+w1791395175
+8imm_gen.sv
+Fimm_gen.sv
+!i122 3
+L0 2 20
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vinc_alu
+R1
+R2
+!i10b 1
+!s100 ZZ;oKmgneicMdbHPnCQb;1
+R3
+Ii>[R]lS;FKDPe4kAA=^AN2
+R4
+S1
+R0
+w1791395155
+8inc_alu.sv
+Finc_alu.sv
+!i122 3
+L0 1 6
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vins_mem
+R1
+R2
+!i10b 1
+!s100 X4ZIAa5hfHAd`J@?0JkcD3
+R3
+Io:nziAMiU_elhn0A9e5^R0
+R4
+S1
+R0
+w1791469170
+8ins_mem.sv
+Fins_mem.sv
+!i122 3
+L0 3 15
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vpc
+R1
+R2
+!i10b 1
+!s100 JLE[BS91E>@C8`=JG0zU11
+R3
+IM8d1BnZ5MSkHPIOc]EkXQ1
+R4
+S1
+R0
+w1791395153
+8pc.sv
+Fpc.sv
+!i122 3
+L0 4 21
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vregfile
+R1
+R2
+!i10b 1
+!s100 =JT;eD0^h`ZA7UJ?o[69a3
+R3
+IJc==_KO3bgbj8GSKVcZze3
+R4
+S1
+R0
+w1791395170
+8regfile.sv
+Fregfile.sv
+!i122 3
+L0 3 25
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vtb_cpu
+R1
+!s110 1791520750
+!i10b 1
+!s100 HEfO]Q<l@UAhKQlcfIU9C0
+R3
+I1<E3B^LIbD6dZKzodEQ=H1
+R4
+S1
+R0
+R11
+8tests/tb_cpu.sv
+Ftests/tb_cpu.sv
+!i122 2
+L0 2 45
+R5
+r1
+!s85 0
+31
+!s108 1791520750.000000
+!s107 tests/tb_cpu.sv|cpu.sv|control.sv|imm_gen.sv|regfile.sv|data_mem.sv|ext_sram_ctrl.sv|ins_mem.sv|branch_alu.sv|inc_alu.sv|pc.sv|alu.sv|
+!s90 -work|sim/work|-sv|alu.sv|pc.sv|inc_alu.sv|branch_alu.sv|ins_mem.sv|ext_sram_ctrl.sv|data_mem.sv|regfile.sv|imm_gen.sv|control.sv|cpu.sv|tests/tb_cpu.sv|
+!i113 1
+R8
+R9
+vvga_160x120
+R1
+R2
+!i10b 1
+!s100 Uf4GmC8RAh@EH5<`5LC:o2
+R3
+I`]le9JdCcQSFHJT0k]A[90
+R4
+S1
+R0
+w1791469305
+8vga_160x120.sv
+Fvga_160x120.sv
+!i122 3
+L0 3 77
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9

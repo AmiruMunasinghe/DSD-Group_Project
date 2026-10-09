@@ -1,0 +1,21 @@
+# vsim -c -lib sim/work tb_cpu -do "run -all; quit" 
+# Start time: 10:09:12 on Oct 09,2026
+# Loading sv_std.std
+# Loading sim/work.tb_cpu
+# Loading sim/work.cpu
+# Loading sim/work.inc_alu
+# Loading sim/work.pc
+# Loading sim/work.ins_mem
+# Loading sim/work.control
+# Loading sim/work.imm_gen
+# Loading sim/work.regfile
+# Loading sim/work.alu
+# Loading sim/work.branch_alu
+# Loading sim/work.data_mem
+# Loading sim/work.ext_sram_ctrl
+# run -all
+# PASS
+# ** Note: $finish    : tests/tb_cpu.sv(44)
+#    Time: 20015 ns  Iteration: 1  Instance: /tb_cpu
+# End time: 10:09:12 on Oct 09,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
